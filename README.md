@@ -59,7 +59,7 @@ google drive <a href="https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZd
     └─labelsTr
 </pre>
 
-The imagesTr and labelsTr folder contains image and mask nii.gz files for training.<br>
+The imagesTr and labelsTr folder contain image and mask nii.gz files for training.<br>
 
 
 <h3>3. Generate master dataset </h3>
