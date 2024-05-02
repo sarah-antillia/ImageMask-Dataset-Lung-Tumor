@@ -5,7 +5,7 @@ Medical Segmentation Decathlon<br>
 Generalisable 3D Semantic Segmentation
 </a>.<br>
 <br>
-<b>Image and mask sample</b><br>
+<b>Lung-Tumor image and mask samples</b><br>
 <hr>
 <table>
 <tr>
