@@ -50,7 +50,7 @@ To cite this data, please refer to https://arxiv.org/abs/1902.09063
 Please download the original <b>Task06_Lung.tar</b> dataset from the
 google drive <a href="https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2">
 </a>
-Please expand the downloaded tar file under <b>ImageMask-Dataset-Lung-Tumor</b> directory, 
+, and expand the downloaded tar file under <b>ImageMask-Dataset-Lung-Tumor</b> directory, 
 <pre>
 ./
  └─Task06_Lung
