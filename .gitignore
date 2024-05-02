@@ -25,6 +25,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+# 2024/05/03
+Lung-Tumor-ImageMask-Dataset-V1/
+Lung-Tumor-ImageMask-Dataset-V1.zip
+Lung-master/
+Task06_Lung/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
