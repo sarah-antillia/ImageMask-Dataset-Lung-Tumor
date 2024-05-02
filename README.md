@@ -63,7 +63,7 @@ The imagesTr and labelsTr folder contains image and mask nii.gz files for traini
 
 
 <h3>3. Generate master dataset </h3>
-Please run the following commnad for Python script <a href="./ImageMaskDatasetGenetator.py">ImageMaskDatasetGenetator.py</a> to generate
+Please run the following commnad for Python script <a href="./ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a> to generate
 images and masks jgp files.<br>
 <pre>
 >python ImageMaskDatasetGenerator.py 
