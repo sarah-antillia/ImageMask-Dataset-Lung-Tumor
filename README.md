@@ -76,7 +76,7 @@ images and masks jgp files.<br>
 </pre>
 
 <h3>4. Split master dataset </h3>
-Please run the following command for Python script <a href="./split_master.py">split_master</a>.
+Please run the following command for Python script <a href="./split_master.py">split_master.py</a>.
 <pre>
 >python split_master.py
 </pre>
