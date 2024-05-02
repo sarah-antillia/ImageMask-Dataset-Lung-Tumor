@@ -68,7 +68,8 @@ images and masks jgp files.<br>
 <pre>
 >python ImageMaskDatasetGenerator.py 
 </pre>
-, by which the following images and masks datasets of 512x512 pixel-size will be created under <b>Lung-master</b> directory.<br>
+, by which the following images and masks datasets of 512x512 pixel-size will be created under <b>Lung-master</b> directory,
+by flipping, rotating, and distorting image processings.<br>
 <pre>
 ./Lung-master
   ├─images
